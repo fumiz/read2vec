@@ -1,0 +1,1 @@
+from .stripper import TagStripper
